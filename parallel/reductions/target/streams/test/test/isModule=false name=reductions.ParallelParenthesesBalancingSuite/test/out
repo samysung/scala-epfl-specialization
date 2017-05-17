@@ -1,0 +1,40 @@
+[0m[[0minfo[0m] [0m[32mParallelParenthesesBalancingSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- balance should work for empty string *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancing$.balance(ParallelParenthesesBalancing.scala:44)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$1.check$1(ParallelParenthesesBalancingSuite.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$1.apply$mcV$sp(ParallelParenthesesBalancingSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$1.apply(ParallelParenthesesBalancingSuite.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$1.apply(ParallelParenthesesBalancingSuite.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- balance should work for string of length 1 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancing$.balance(ParallelParenthesesBalancing.scala:44)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$2.check$2(ParallelParenthesesBalancingSuite.scala:25)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$2.apply$mcV$sp(ParallelParenthesesBalancingSuite.scala:28)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$2.apply(ParallelParenthesesBalancingSuite.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$2.apply(ParallelParenthesesBalancingSuite.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- balance should work for string of length 2 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancing$.balance(ParallelParenthesesBalancing.scala:44)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$3.check$3(ParallelParenthesesBalancingSuite.scala:35)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$3.apply$mcV$sp(ParallelParenthesesBalancingSuite.scala:38)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$3.apply(ParallelParenthesesBalancingSuite.scala:33)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.ParallelParenthesesBalancingSuite$$anonfun$3.apply(ParallelParenthesesBalancingSuite.scala:33)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

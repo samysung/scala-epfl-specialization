@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../forcomp" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../forcomp" />
+            <option value="$PROJECT_DIR$/../forcomp/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.9" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../funsets" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../funsets" />
+            <option value="$PROJECT_DIR$/../funsets/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.9" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.9" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../patmat" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../patmat" />
+            <option value="$PROJECT_DIR$/../patmat/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.9" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../recfun" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../recfun" />
+            <option value="$PROJECT_DIR$/../recfun/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.9" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$USER_HOME$/IdeaProjects/first_app" />
+        <option name="jdk" value="1.8" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

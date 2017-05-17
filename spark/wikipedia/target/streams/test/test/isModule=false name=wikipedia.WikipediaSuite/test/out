@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mWikipediaSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'occurrencesOfLang' should work for (specific) RDD with one element *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  WikipediaSuite.this.initializeWikipediaRanking() was false -- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)? (WikipediaSuite.scala:40)[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'rankLangs' should work for RDD with two elements *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  WikipediaSuite.this.initializeWikipediaRanking() was false -- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)? (WikipediaSuite.scala:48)[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'makeIndex' creates a simple index with two entries *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  WikipediaSuite.this.initializeWikipediaRanking() was false -- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)? (WikipediaSuite.scala:58)[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'rankLangsUsingIndex' should work for a simple RDD with three elements *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  WikipediaSuite.this.initializeWikipediaRanking() was false -- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)? (WikipediaSuite.scala:73)[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'rankLangsReduceByKey' should work for a simple RDD with four elements *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  WikipediaSuite.this.initializeWikipediaRanking() was false -- did you fill in all the values in WikipediaRanking (conf, sc, wikiRdd)? (WikipediaSuite.scala:89)[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: wikipedia.WikipediaSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Exception encountered when attempting to run a suite with class name: wikipedia.WikipediaSuite (WikipediaSuite.scala:26)[0m[0m

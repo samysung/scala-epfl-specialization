@@ -1,0 +1,40 @@
+[0m[[0minfo[0m] [0m[32mLineOfSightSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- lineOfSight should correctly handle an array of size 4 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSight$.lineOfSight(LineOfSight.scala:37)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$1.apply$mcV$sp(LineOfSightSuite.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$1.apply(LineOfSightSuite.scala:14)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$1.apply(LineOfSightSuite.scala:14)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- upsweepSequential should correctly handle the chunk 1 until 4 of an array of 4 elements *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSight$.upsweepSequential(LineOfSight.scala:53)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$2.apply$mcV$sp(LineOfSightSuite.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$2.apply(LineOfSightSuite.scala:21)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$2.apply(LineOfSightSuite.scala:21)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- downsweepSequential should correctly handle a 4 element array when the starting angle is zero *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:225)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSight$.downsweepSequential(LineOfSight.scala:75)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$3.apply$mcV$sp(LineOfSightSuite.scala:29)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$3.apply(LineOfSightSuite.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at reductions.LineOfSightSuite$$anonfun$3.apply(LineOfSightSuite.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

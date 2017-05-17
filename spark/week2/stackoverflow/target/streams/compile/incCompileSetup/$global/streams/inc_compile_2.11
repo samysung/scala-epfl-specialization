@@ -1,0 +1,483 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+44 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting$.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$10.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$12.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$13.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$14.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$15$$anonfun$apply$2.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$15.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$16.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$18.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$20.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$21.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$22.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$23.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$2.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$4.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$5.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$8.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$9.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$2.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$findClosest$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$2.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$main$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$2.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$rawPostings$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$2.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1$$anonfun$apply$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$vectorPostings$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$.class
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow.class
+binary dependencies:
+3 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/samykhelifi-air/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+44 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.Posting
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.Posting$
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$10
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$12
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$13
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$14
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$15
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$15$$anonfun$apply$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$17
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$18
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$19
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$19$$anonfun$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$19$$anonfun$20
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$19$$anonfun$21
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$19$$anonfun$22
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$19$$anonfun$23
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$3
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$4
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$5
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$8
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$9
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$findClosest$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$main$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$rawPostings$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$scoredPostings$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$scoredPostings$1$$anonfun$apply$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$vectorPostings$1
+used names:
+269 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> %
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> &&
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> *
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> +
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> -
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> <
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> <byname>
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> <init>
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ==
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> >
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> >=
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> AbstractFunction6
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Array
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Boolean
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ClassTag
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Double
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Int
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Iterable
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Iterator
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> List
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Long
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> None
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Option
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Ordering
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Partitioner
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Posting
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Predef
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Product
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> RDD
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Random
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> RangePartitioner
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ScalaRunTime
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Seq
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Serializable
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> SparkConf
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> SparkContext
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StackOverflow
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Statics
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> String
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StringBuffer
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StringContext
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StringOps
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> System
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> T
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Tuple2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Tuple4
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Unit
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _3
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _4
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _root_
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _toString
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> abs
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> acceptedAnswer
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> annotation
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> answerHighScore
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> answers
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> anyHash
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> apache
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> append
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> apply
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$3
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$4
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$5
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$6
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$7
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arr
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arrayClass
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> as
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> asInstanceOf
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> assert
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> augmentString
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> averageVectors
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> bestIndex
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> cache
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> canBuildFrom
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> centers
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clone
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> closest
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> closestGrouped
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clusterResults
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clusterSize
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> code
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> collect
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> collection
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> comp1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> comp2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> computeMedian
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> conf
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> converged
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> count
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> countVs
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> currentTimeMillis
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> debug
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> distance
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> elt
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> eq
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> euclideanDistance
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> f
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> filter
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> finalizeHash
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> findClosest
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> firstLangInTag
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> flatMap
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> foreach
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> format
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> get
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupBy
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupByKey
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> grouped
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupedPostings
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupedVS
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> hasNext
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> head
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> highScore
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> i
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> id
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> idx
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> immutable
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intArrayOps
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intWrapper
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intern
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> isEmpty
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> isInstanceOf
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> item
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> iter
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> iterator
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> j
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> java
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> join
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeans
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansEta
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansKernels
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansMaxIterations
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> l
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> label
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lang
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langLabel
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langPercent
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langSpread
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langs
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> last
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> length
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> line
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lines
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lower
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ls
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> map
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> mapValues
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> materializeClassTag
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> math
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> maxBy
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> mcl
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> means
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> median
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> medianScore
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> mix
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ne
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> newMeans
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> next
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> nextLong
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> org
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> p
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> package
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> pair
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> pairing
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> parentId
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> part1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> part2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> perLang
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> percent
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> post
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> postingType
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> postings
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> printResults
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> println
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ps
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> qual$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> qual$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> questions
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> raw
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rawPostings
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rdd
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rddToOrderedRDDFunctions
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rddToPairRDDFunctions
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> refArrayOps
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> reflect
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> res
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> reservoirSampling
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> result
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> results
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rnd
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> runtime
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> s
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sample
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sampleVectors
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sc
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scala
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> score
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scored
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scoredPostings
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> setAppName
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> setMaster
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> size
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sortBy
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sortByKey
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sortWith
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> spark
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> split
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> splitAt
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> start
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stop
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stripMargin
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sum
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tag
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tags
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tail
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tailrec
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> takeSample
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tempDist
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> textFile
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> timed
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> timing
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tmp
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toArray
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toDouble
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toInt
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toIterator
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toList
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toLong
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toString
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> typedProductIterator
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> unchecked
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> until
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> update
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> upper
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> util
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> values
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vectorPostings
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vectors
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vs
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$1
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$2
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$3
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$4
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> withFilter
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$11
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$12
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$13
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$14
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$15
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$16
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$17
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$18
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$19
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> y
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ||
+product stamps:
+44 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting$.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$10.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$12.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$13.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$14.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$15$$anonfun$apply$2.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$15.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$16.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$18.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$1.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$20.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$21.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$22.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19$$anonfun$23.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$19.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$2.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$4.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$5.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$8.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$9.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$2.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$findClosest$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$2.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$main$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$2.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$rawPostings$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$2.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1$$anonfun$apply$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$vectorPostings$1.class -> lastModified(1490088957000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$.class -> lastModified(1490088956000)
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow.class -> lastModified(1490088956000)
+source stamps:
+1 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> hash(44e4be02caf9f6c42c55017bb41b25827965de41)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/samykhelifi-air/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/Users/samykhelifi-air/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/samykhelifi-air/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.rdd.OrderedRDDFunctions
+/Users/samykhelifi-air/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDnlDFMAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH1FHht0AAZub3RpZnlzcQB+AAwgvS9odAAJa21lYW5zRXRhc3EAfgAMJv5IrnQAC3Jhd1Bvc3Rpbmdzc3EAfgAM4X5k0nQABHdhaXRzcQB+AAxKYL+mdAAOY29weSRkZWZhdWx0JDJzcQB+AAygG18edAANJGFzSW5zdGFuY2VPZnNxAH4ADKxfRrx0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADMp819Z0AAV0aW1lZHNxAH4ADPhOYP50AAxwcm9kdWN0QXJpdHlzcQB+AAxXOrzpdAAGZXF1YWxzc3EAfgAMbJf7MnQABHRhZ3NzcQB+AAzJuOm0dAAMYXNJbnN0YW5jZU9mc3EAfgAMwttMO3QADHN5bmNocm9uaXplZHNxAH4ADLMJuwJ0AAVzY29yZXNxAH4ADHJuVjt0AAJzY3NxAH4ADBvwXPB0ABNrbWVhbnNNYXhJdGVyYXRpb25zc3EAfgAMYvE1+3QADSRpc0luc3RhbmNlT2ZzcQB+AAzzzG2IdAANU3RhY2tPdmVyZmxvd3NxAH4ADM5cnh10AAxwcmludFJlc3VsdHNzcQB+AAzIn2t9dAAFbGFuZ3NzcQB+AAyldEDFdAAIY2FuRXF1YWxzcQB+AAwe7hwudAAOY29weSRkZWZhdWx0JDRzcQB+AAzEhN2ydAALcG9zdGluZ1R5cGVzcQB+AAxJ6SMGdAAOdmVjdG9yUG9zdGluZ3NzcQB+AAx7nEv2dAAEbWFpbnNxAH4ADG7Dww50AApsYW5nU3ByZWFkc3EAfgAMpLgpp3QAEGttZWFucyRkZWZhdWx0JDRzcQB+AAx2YY0mdAANcHJvZHVjdFByZWZpeHNxAH4ADF5++KJ0AAZ0aW1pbmdzcQB+AAx5Yo7gdAAJbm90aWZ5QWxsc3EAfgAMriSSkXQAC3JlYWRSZXNvbHZlc3EAfgAMWXnzRHQABGNvbmZzcQB+AAwSeJJ3dAAJY29udmVyZ2Vkc3EAfgAMDkpCAnQADGlzSW5zdGFuY2VPZnNxAH4ADL0++tF0AAY8aW5pdD5zcQB+AAySeDvudAACaWRzcQB+AAyiJl3zdAAQa21lYW5zJGRlZmF1bHQkM3NxAH4ADBmIW0N0AAdQb3N0aW5nc3EAfgAMFu1kJnQADnNjb3JlZFBvc3Rpbmdzc3EAfgAM5gW6e3QAAj09c3EAfgAMBGyjD3QABWNsb25lc3EAfgAMqgoy1HQADmFjY2VwdGVkQW5zd2Vyc3EAfgAMeENn7HQADWttZWFuc0tlcm5lbHNzcQB+AAxo1+jMdAAOY29weSRkZWZhdWx0JDNzcQB+AAxmkkEudAAEY29weXNxAH4ADLepAOt0AAh0b1N0cmluZ3NxAH4ADET+r7x0AA9ncm91cGVkUG9zdGluZ3NzcQB+AAyzNk4qdAACIT1zcQB+AAw40DaWdAANc2FtcGxlVmVjdG9yc3NxAH4ADKYHmcN0AA5jbHVzdGVyUmVzdWx0c3NxAH4ADF1THU10AAhnZXRDbGFzc3NxAH4ADOxL7OF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADND3Lil0ABFldWNsaWRlYW5EaXN0YW5jZXNxAH4ADAWX6nZ0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADH+XyXR0AAJuZXNxAH4ADAMU8wF0AAhwYXJlbnRJZHNxAH4ADFnMQi10AA5hdmVyYWdlVmVjdG9yc3NxAH4ADJ5N61t0AAJlcXNxAH4ADHheP6R0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAynrZHWdAACIyNzcQB+AAwTLNO3dAAIZmluYWxpemVzcQB+AAwLKXwWdAALZmluZENsb3Nlc3RzcQB+AAySz6TgdAAGa21lYW5zc3EAfgAMtBwSk3QADnByb2R1Y3RFbGVtZW50c3EAfgAMOKNrg3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AmXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFXN0YWNrb3ZlcmZsb3cuUG9zdGluZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCxAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCZTAAJaW5oZXJpdGVkcQB+AJlMAAdwYXJlbnRzcQB+AJl4cQB+ALhzcQB+ALEBdXEAfgCUAAAAAHBzcQB+ALEBdXEAfgCUAAAAAHBzcQB+ALEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC3dAAHUHJvZHVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4At3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A0XNxAH4AxHQABkVxdWFsc3EAfgDKc3EAfgDEdAAMU2VyaWFsaXphYmxlcQB+AMpzcQB+AMRxAH4A2XNxAH4AyHNxAH4Ay3VxAH4AzgAAAANzcQB+ANB0AARqYXZhc3EAfgDQdAACaW9xAH4A1XNxAH4AxHQABk9iamVjdHNxAH4AyHNxAH4Ay3VxAH4AzgAAAANzcQB+ANBxAH4A33NxAH4A0HQABGxhbmdxAH4A1XNxAH4AxHQAA0FueXEAfgDKcHBzcQB+AJZxAH4Ao3VxAH4ApAAAAABzcQB+AKYAdAAbc3RhY2tvdmVyZmxvdy5TdGFja092ZXJmbG93dXEAfgCpAAAAAH5xAH4Aq3QABk1vZHVsZXVxAH4ArwAAAAF0ABhzY2FsYS5hbm5vdGF0aW9uLnRhaWxyZWNzcQB+ALEBcQB+ALlwc3EAfgCxAXNxAH4Au3NxAH4AsQF1cQB+AJQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AJpxAH4Ao3VxAH4ApAAAAABzcQB+AKYAcQB+AD91cQB+AKkAAAAAc3EAfgDEdAAEVW5pdHNxAH4AyHNxAH4Ay3VxAH4AzgAAAAJzcQB+ANBxAH4A03EAfgDVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4A+3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4ArHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AxVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4At3NxAH4AxHQABUFycmF5cQB+AQN1cQB+AMIAAAABc3EAfgDEdAAGU3RyaW5nc3EAfgDIc3EAfgDLdXEAfgDOAAAAA3NxAH4A0HEAfgDfc3EAfgDQcQB+AOlxAH4A1XBzcQB+ALEBdXEAfgCUAAAAAHBzcQB+ALEBdXEAfgDCAAAABXNxAH4AxHQADVN0YWNrT3ZlcmZsb3dzcQB+AMhzcQB+AMt1cQB+AM4AAAACc3EAfgDQdAANc3RhY2tvdmVyZmxvd3EAfgDVc3EAfgDEcQB+ANlxAH4BA3NxAH4AxHEAfgDZc3EAfgDIc3EAfgDLdXEAfgDOAAAAA3NxAH4A0HEAfgDfc3EAfgDQdAACaW9xAH4A1XNxAH4AxHEAfgDjcQB+AR1zcQB+AMRxAH4A63EAfgEDcHBzcQB+AJZxAH4Ao3VxAH4ApAAAAABzcQB+AKYAdAAbc3RhY2tvdmVyZmxvdy5TdGFja092ZXJmbG93dXEAfgCpAAAAAHEAfgCtdXEAfgCvAAAAAXQAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3NxAH4AsQFxAH4AuXBzcQB+ALEBc3EAfgC7c3EAfgCxAXVxAH4AlAAAAABwc3EAfgCxAXVxAH4AlAAAAABwc3EAfgCxAXVxAH4AwgAAAARzcQB+AMRxAH4A2XNxAH4AyHNxAH4Ay3VxAH4AzgAAAAJzcQB+ANBxAH4A03EAfgDVc3EAfgDEcQB+ANlzcQB+AMhzcQB+AMt1cQB+AM4AAAADc3EAfgDQcQB+AN9zcQB+ANB0AAJpb3EAfgDVc3EAfgDEcQB+AONzcQB+AMhzcQB+AMt1cQB+AM4AAAADc3EAfgDQcQB+AN9zcQB+ANBxAH4A6XEAfgDVc3EAfgDEcQB+AOtxAH4BSHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAANc3RhY2tvdmVyZmxvd3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvA48MR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABfL1VzZXJzL3NhbXlraGVsaWZpLWFpci9Eb2N1bWVudHMvTU9PQy9zY2FsYS9zcGFyay93ZWVrMi9zdGFja292ZXJmbG93L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRE5L4Cyvn2xCxVAXu0GyWCeWXeQQ==
+external apis:
+0 items
+source infos:
+1 items
+/Users/samykhelifi-air/Documents/MOOC/scala/spark/week2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWtgduOF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvc3Bhcmsvd2VlazIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuvUc9Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvc3Bhcmsvd2VlazIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuvcvSp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvc3Bhcmsvd2VlazIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuwMO9R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvc3Bhcmsvd2VlazIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuwiMYd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvc3Bhcmsvd2VlazIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWuxwOPV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvc3Bhcmsvd2VlazIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWvA48MR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvc3Bhcmsvd2VlazIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

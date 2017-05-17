@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mBloxorzSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- terrain function level 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- findChar level 1[0m[0m
+[0m[[0minfo[0m] [0m[31m- optimal solution for level 1 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.IllegalArgumentException: requirement failed: Illegal block position: b1=Pos(4,4), b2=Pos(4,4)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.require(Predef.scala:219)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$SolutionChecker$$anonfun$solve$1.apply(BloxorzSuite.scala:21)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$SolutionChecker$$anonfun$solve$1.apply(BloxorzSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.LinearSeqOptimized$class.foldLeft(LinearSeqOptimized.scala:124)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.List.foldLeft(List.scala:84)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$SolutionChecker$class.solve(BloxorzSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.solve(BloxorzSuite.scala:70)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.<init>(BloxorzSuite.scala:71)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply$mcV$sp(BloxorzSuite.scala:70)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply(BloxorzSuite.scala:70)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[32m- optimal solution length for level 1[0m[0m

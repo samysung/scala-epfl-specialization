@@ -1,0 +1,299 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/common/package$.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/common/package.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Main$.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Main$delayedInit$body.class
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Main.class
+binary dependencies:
+4 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> /Users/samykhelifi-air/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> /Users/samykhelifi-air/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> common.package
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Main$delayedInit$body
+used names:
+148 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> ::
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> <init>
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> Any
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> File
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> List
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> None
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> Option
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> Predef
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> String
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> _root_
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> child
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> children
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> common
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> exists
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> file
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> getClass
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> getResource
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> io
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> java
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> package
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> scala
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> subFile
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> toURI
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> ++
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> <
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> App
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Main
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Ordering
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> bit
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> count
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> ct
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> decodedSecret
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> distinct
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> enc1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> foreach
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> length
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> math
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> println
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> quickEncode
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> remainText
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> remainTree
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> remaining
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> sortBy
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> sortWith
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> sorted
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> string2Chars
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> t1
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> t2
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> toEncode
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> traverse
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> unary_!
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+18 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1483370080000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1483370080000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1483370080000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Main$.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Main$delayedInit$body.class -> lastModified(1483546307000)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/target/scala-2.11/classes/patmat/Main.class -> lastModified(1483546307000)
+source stamps:
+2 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> hash(b6319ebfc7f41780e267c7b1dc92a02232ab559e)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/samykhelifi-air/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/samykhelifi-air/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+internal apis:
+2 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZX78LCHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFYvVXNlcnMvc2FteWtoZWxpZmktYWlyL0RvY3VtZW50cy9NT09DL3NjYWxhL3ByaW5jaXBlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAeJ4L8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNMEJnd0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADPkt/KV0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAM7JbDknQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMQaAAxHQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADC88IZp0AAxhc0luc3RhbmNlT2ZzcQB+AAxpKtqXdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAyRfZE6dAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAxrzypPdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADBeR9DV0AARtYWluc3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMZ7XgnHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADLh+4sl0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAMUPm6bnQACW5vdGlmeUFsbHNxAH4ADIvcAQl0AAtyZWFkUmVzb2x2ZXNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADA+FzAV0AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAzJA4c3dAACPT1zcQB+AAxd+kz1dAAEZW5jMXNxAH4ADD6AXIZ0AAVjbG9uZXNxAH4ADBgXJOF0AA9tZXJnZUNvZGVUYWJsZXNzcQB+AAwIKvVAdAAFdGltZXNzcQB+AAzzaPoydAAHY29tYmluZXNxAH4ADJombp50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADL4+j3J0AARjb3B5c3EAfgAMj46m33QABE1haW5zcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAMEIE9R3QACHRvU3RyaW5nc3EAfgAMFhzdEXQABGFyZ3NzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAMWdKWQnQAAiE9c3EAfgAMhQZzoHQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPatRDx0AARGb3Jrc3EAfgAMJA1KA3QAAnQxc3EAfgAMJcagknQAA0JpdHNxAH4ADGQ57t10AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAMF3Jtq3QACENvZGVUcmVlc3EAfgAMn+bFgnQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMEUWa8HQAC2RlbGF5ZWRJbml0c3EAfgAMlSK6AnQAAiMjc3EAfgAMC8ladnQACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAMrB+vwHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ao3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AvHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AuwBwc3EAfgDAc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKNMAAlpbmhlcml0ZWRxAH4Ao0wAB3BhcmVudHNxAH4Ao3hxAH4AxHNxAH4AuwBwc3EAfgDAdXEAfgCeAAAAAHNxAH4AuwBwc3EAfgDAdXEAfgCeAAAAAHNxAH4AuwBwc3EAfgDAdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDDdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDgdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDhc3EAfgDUdAADQW55c3EAfgDYc3EAfgDbdXEAfgDeAAAAAnNxAH4A4HQABXNjYWxhcQB+AOdzcQB+AKBxAH4ArXVxAH4ArgAAAABzcQB+ALAAdAALcGF0bWF0Lk1haW51cQB+ALMAAAAAcQB+ALd1cQB+ALkAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgC7AHBzcQB+AMBxAH4AxXNxAH4AuwBwc3EAfgDAc3EAfgDIc3EAfgC7AHBzcQB+AMB1cQB+AJ4AAAAAc3EAfgC7AHBzcQB+AMB1cQB+AJ4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AKRxAH4ArXVxAH4ArgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AQN4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgDUdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ANhzcQB+ANt1cQB+AN4AAAACc3EAfgDgcQB+AO5xAH4A53NxAH4AsABxAH4AO3VxAH4AswAAAABzcQB+ANR0AARVbml0cQB+ARJ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgEDeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgC2dAAFUGxhaW5xAH4Ab3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4A1VsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aw3NxAH4A1HQABUFycmF5cQB+ARJ1cQB+ANIAAAABc3EAfgDUdAAGU3RyaW5nc3EAfgDYc3EAfgDbdXEAfgDeAAAAA3NxAH4A4HEAfgDjc3EAfgDgcQB+AOVxAH4A53NxAH4AuwBwc3EAfgDAdXEAfgDSAAAABHNxAH4A1HQAA0FwcHEAfgESc3EAfgDUdAALRGVsYXllZEluaXRxAH4BEnNxAH4A1HEAfgDXcQB+AS9zcQB+ANRxAH4A6XEAfgESdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZakANeHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFYvVXNlcnMvc2FteWtoZWxpZmktYWlyL0RvY3VtZW50cy9NT09DL3NjYWxhL3ByaW5jaXBlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLYxnr/H9BeA4mfHsdySoCIyq1We
+external apis:
+0 items
+source infos:
+2 items
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/samykhelifi-air/Documents/MOOC/scala/principes/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+18 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWV+/Cwh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWV/DuwN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWA6TDh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWOTa9B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWOW7AV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWVdhMx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWnMibR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWnZ6lZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWneX691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWnnUI91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWnoUsV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWnqQZN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWnv9sZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWnxYPd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWn0RKJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWn1kY51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWn2Q8d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWpADXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9zYW15a2hlbGlmaS1haXIvRG9jdW1lbnRzL01PT0Mvc2NhbGEvcHJpbmNpcGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

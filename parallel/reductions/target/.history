@@ -1,0 +1,4 @@
+runMain reductions.ParallelCountChangeRunner
+test
+quit
+exit
